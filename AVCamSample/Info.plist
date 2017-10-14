@@ -36,5 +36,13 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>CFBundleExecutable</key>
+	<string></string>
+	<key>NSCameraUsageDescription</key>
+	<string>カメラでの撮影、動画配信時に必要</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>アルバムから画像を配信するために必要</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Live Photo、動画の撮影に必要</string>
 </dict>
 </plist>
